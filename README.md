@@ -100,3 +100,55 @@ AWS
 
 :heavy_check_mark:Google Compute Engine
 
+### Module 3
+
+1. Which technology will address the following need?
+
+“Send requests to a remote object” :arrow_right: CORBA
+
+2. Which technology will address the following need?
+
+“Provides storage backend for web applications” :arrow_right: MBaas
+
+3. Which technology will address the following need?
+
+“Human readable representation of data” :arrow_right: JSON
+
+4. Which technology will address the following need?
+
+“Deploy operating systems on a number of machines”:arrow_right: IPMI
+
+5. Which technology will address the following need?
+
+“Deploy applications on a number of machines”:arrow_right: MAAS
+
+6. Which technology will address the following need?
+
+“Create, Update, Read, and Remove objects over the web”:arrow_right: REST
+
+7. Which technology will address the following need?
+
+“Data representation for (un)marshalling on different machines and programming languages” :arrow_right: URL
+
+8. Which technology will address the following need?
+
+“Turn a machine on and off remotely independent of OS”:arrow_right: IPMI
+
+9. Which technology will address the following need?
+
+“Connect to an operating system remotely”:arrow_right: SSH
+
+10. Which technology will address the following need?
+
+“Boot arbitrary operating system (image) over network":arrow_right: PXE
+
+11. Which technology will address the following need?
+
+“Server side computation which maintains no state about clients” :arrow_right: AWS Lambda
+
+12. If a server is going down, which technology can still serve the existing customers?
+
+:arrow_right: MaaS
+
+
+
