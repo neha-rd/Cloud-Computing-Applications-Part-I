@@ -2,8 +2,8 @@
 ## Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure coursera quiz solutions
 
 
-### Module 1 Introduction
-### Module 2 Graded Quiz
+### Week 1 Introduction
+### Week 2 
 
 1. Which type of virtualization is feasible for the following scenario? “A service needs to run an unmodified OS on a basic processor.”
 
@@ -100,7 +100,7 @@ AWS
 
 :heavy_check_mark:Google Compute Engine
 
-### Module 3
+### Week 3
 
 1. Which technology will address the following need?
 
@@ -116,11 +116,11 @@ AWS
 
 4. Which technology will address the following need?
 
-“Deploy operating systems on a number of machines”:arrow_right: IPMI
+“Deploy operating systems on a number of machines”:arrow_right: MAAS
 
 5. Which technology will address the following need?
 
-“Deploy applications on a number of machines”:arrow_right: MAAS
+“Deploy applications on a number of machines”:arrow_right: Juju
 
 6. Which technology will address the following need?
 
@@ -128,7 +128,7 @@ AWS
 
 7. Which technology will address the following need?
 
-“Data representation for (un)marshalling on different machines and programming languages” :arrow_right: URL
+“Data representation for (un)marshalling on different machines and programming languages” :arrow_right: XML
 
 8. Which technology will address the following need?
 
@@ -150,5 +150,50 @@ AWS
 
 :arrow_right: MaaS
 
+### Week 4
 
+1. Which storage technology is the best for the following scenario? (HIVE, CEPH, SWIFT)
 
+"An application which needs complicated queries on structured data" :arrow_right: HIVE
+
+2. Which storage technology is the best for the following scenario? (Swift, Ceph, HIVE)
+
+"Application needs to update structured data frequently" :arrow_right: Ceph
+
+3. Which is the best filesystem for Map Reduce applications? (Swift, Dropbox, HDFS) :arrow_right: HDFS
+
+4. Which storage technology is the best for the following scenario? (HDFS, Swift, Ceph)
+
+"Store an operating system and application binaries remotely" :arrow_right: Swift
+
+5. Which storage technology is the best for the following scenario? (AWS S3, Swift, HDFS)
+
+"An application which works with 80 GBs of images on in-house data center" :arrow_right: Swift
+
+6. Which storage technology is the best for the following scenario? (Swift, AWS S3, Instance Store)
+
+"An application which works with 2 TBs of sound files for a few weeks" :arrow_right: AWS S3
+
+7. Which storage technology is the best for the following scenario? (AWS S3, Glacier, Instance Store)
+
+"An application which stores 200 GBs of binary data for a few minutes" :arrow_right: Instance Store
+
+8. Which storage technology is the best for the following scenario? (Glacier, Dropbox, AWS S3)
+
+"An application which archive 2,000 TB of data for a year" :arrow_right: Glacier
+
+9. Which storage technology is the best for the following scenario? (Swift, Dropbox, AWS S3)
+
+"Sync files on a few personal devices" :arrow_right: Dropbox
+
+10. Which storage technology is the best for the following scenario? (AWS S3, Glacier, EFS)
+
+"An application which store and query 2,000 TB of binary data for a few weeks" :arrow_right: EFS
+
+11. Which storage technology is the best for the following scenario? (HDFS, AWS S3, Swift)
+
+"Application distributed on multiple nodes, each node reads a certain set of data frequently" :arrow_right: HDFS
+
+12. Which storage technology is the best for the following scenario? (Local hard disk, HDFS, Instance Store)
+
+"Application runs on a single node, needs to store 10GB of data for a few minutes" :arrow_right: Local Hard Disk
