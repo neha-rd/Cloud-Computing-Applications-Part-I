@@ -1,5 +1,5 @@
 # Cloud-Computing-Applications-Part-I
-## Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure coursera quiz solutions
+## Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure
 
 
 ### Week 1 Introduction
